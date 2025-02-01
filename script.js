@@ -26,7 +26,7 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 
     const typewriterText = document.getElementById('typewriter-text');
-    const texts = ['Egor', '16 y.o', 'trying to figure out what i want from life :3'];
+    const texts = ['Egor', '16 years old', 'trying to understand at least something:3'];
     let textIndex = 0;
     let charIndex = 0;
     const typingSpeed = 150;
